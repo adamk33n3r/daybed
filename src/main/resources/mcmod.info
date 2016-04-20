@@ -1,0 +1,18 @@
+[
+{
+  "modid": "daybed",
+  "name": "Day Bed",
+  "description": "Sleep the day away!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/adamk33n3r/daybed",
+  "updateUrl": "",
+  "authorList": ["adamk33n3r"],
+  "credits": "Created by adamk33n3r",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [
+    "mod_MinecraftForge"
+  ]
+}
+]
